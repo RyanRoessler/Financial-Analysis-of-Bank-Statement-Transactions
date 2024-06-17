@@ -17,7 +17,7 @@ The second function "filter_financial()" takes the same two bank statements, a s
   <li>This function returns the following outputs:
     <ul>
       </li>
-      <li>Total number of purchase occurrences</li>
+      <li>Total number of purchases</li>
       <li>Total cost of all purchases combined</li>
       <li>Average cost per purchase</li>
       <li>Average weekly cost (this is only accurate if the statements span a 1-year period)</li>
