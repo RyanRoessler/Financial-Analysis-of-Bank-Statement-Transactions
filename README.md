@@ -18,8 +18,8 @@ The second function "filter_financial()" takes the same two bank statements, a s
     <ul>
       </li>
       <li>Total number of purchase occurrences</li>
-      <li>Total cost of all purchases</li>
-      <li>Average cost per purchase occurrence</li>
+      <li>Total cost of all purchases combined</li>
+      <li>Average cost per purchase</li>
       <li>Average weekly cost</li>
       <li>Average monthly cost</li>
       <li>Largest combined date range of both statements, and the total number of days
