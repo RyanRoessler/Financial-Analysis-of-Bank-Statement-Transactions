@@ -1,4 +1,4 @@
-# Analysis of Transactions from Bank Statements
+# Financial Analysis of Bank Statement Transactions
 
 This repository contains the Financial_Functions.py library with two functions inside.
 <ul>
