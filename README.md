@@ -2,7 +2,7 @@
 
 This repository contains the Financial_Functions.py library with two functions inside.
 <ul>
-  <li>These functions are designed to analyze certain purchase transactions over a 1-year period ("Doordash", "King Soopers", etc.)</li>
+  <li>These functions are designed to analyze certain purchase transactions("Doordash", "King Soopers", etc.).</li>
 </ul>
 
 The first function "show_statements()" takes two bank statements (credit and debit) as CSV files, and displays them in a compact, tabular format.
@@ -20,8 +20,8 @@ The second function "filter_financial()" takes the same two bank statements, a s
       <li>Total number of purchase occurrences</li>
       <li>Total cost of all purchases combined</li>
       <li>Average cost per purchase</li>
-      <li>Average weekly cost</li>
-      <li>Average monthly cost</li>
+      <li>Average weekly cost (this is only accurate if the statements span a 1-year period)</li>
+      <li>Average monthly cost (this is only accurate if the statements span a 1-year period)</li>
       <li>Largest combined date range of both statements, and the total number of days
         <ul>
           <li>e.g. if your credit card statement spans 2022-June-20 to 2023-February-12 and your debit card statement spans 2022-August-01 to 2023-March-08, the function will use the range 2022-June-20 to 2023-March-08.</li>
