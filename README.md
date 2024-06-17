@@ -2,7 +2,8 @@
 
 This repository contains the Financial_Functions.py library with two functions inside.
 <ul>
-  <li>These functions are designed to analyze certain purchase transactions("Doordash", "King Soopers", etc.).</li>
+  <li>These functions are designed to analyze certain purchase transactions ("Doordash", "King Soopers", etc.) from two bank statements.</li>
+  <li>i.e., it takes two bank statements (credit and debit) and pools them together, performing a total analysis on all transactions from both combined.</li>
 </ul>
 
 The first function "show_statements()" takes two bank statements (credit and debit) as CSV files, and displays them in a compact, tabular format.
