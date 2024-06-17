@@ -1,7 +1,5 @@
 # Analysis of Transactions from Bank Statements
 
-# Analysis of Transactions from Bank Statements
-
 This repository contains the Financial_Functions.py library with two functions inside.
 <ul>
   <li>These functions are designed to analyze certain purchase transactions over a 1-year period ("Doordash", "King Soopers", etc.)</li>
