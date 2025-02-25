@@ -21,8 +21,8 @@ The second function "filter_financial()" takes the same two bank statements, a s
       <li>Total number of purchases</li>
       <li>Total cost of all purchases combined</li>
       <li>Average cost per purchase</li>
-      <li>Average weekly cost (this is only accurate if the statements span a 1-year period)</li>
-      <li>Average monthly cost (this is only accurate if the statements span a 1-year period)</li>
+      <li>Average weekly cost</li>
+      <li>Average monthly cost</li>
       <li>Largest combined date range of both statements, and the total number of days
         <ul>
           <li>e.g. if your credit card statement spans 2023-June-20 to 2024-June-14 and your debit card statement spans 2023-June-16 to 2024-June-09, the function will use the range 2023-June-16 to 2024-June-14.
